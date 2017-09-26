@@ -1,3 +1,6 @@
 Linux tutorial
 
 Distribution --> http://distrowatch.com
+
+Download centos image -->https://www.linuxtrainingacademy.com/vdi/
+
