@@ -3,4 +3,6 @@ Linux tutorial
 Distribution --> http://distrowatch.com
 
 Download centos image -->https://www.linuxtrainingacademy.com/vdi/
-
+Username: adminuser
+Password: adminuser
+Root Password: adminuser
