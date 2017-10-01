@@ -6,3 +6,15 @@ Download centos image -->https://www.linuxtrainingacademy.com/vdi/
 Username: adminuser
 Password: adminuser
 Root Password: adminuser
+
+use libreoffice for alternative to microsoft office
+download gvim , it is a graphical VIM editor
+
+To see content of file, use
+1. More
+2. Cat
+3. less
+4. sort
+
+
+$ printenv --> for printing all the env. variables
