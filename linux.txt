@@ -18,3 +18,8 @@ To see content of file, use
 
 
 $ printenv --> for printing all the env. variables
+
+Find folders which are consuming maximum space 
+
+du -hsx * | sort -r | head -20
+
